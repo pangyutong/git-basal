@@ -1,0 +1,5 @@
+http://www.cnblogs.com/schaepher/p/4933873.html			项目合作流程
+http://www.cnblogs.com/yc8930143/p/5410734.html			git  vi编辑器
+
+
+http://blog.csdn.net/free_wind22/article/details/50967723	完整教程,中间部分包含git注册和关联远程仓库
